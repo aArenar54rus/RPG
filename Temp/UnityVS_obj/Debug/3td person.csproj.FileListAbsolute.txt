@@ -1,0 +1,23 @@
+D:\Project\3td person\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+D:\Project\3td person\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+D:\Project\3td person\Temp\UnityVS_bin\Debug\nunit.framework.dll
+D:\Project\3td person\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\Project\3td person\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+D:\Project\3td person\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\Project\3td person\Temp\UnityVS_bin\Debug\UnityEngine.HoloLens.dll
+D:\Project\3td person\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+D:\Project\3td person\Temp\UnityVS_bin\Debug\UnityEngine.TestRunner.dll
+D:\Project\3td person\Temp\UnityVS_bin\Debug\UnityEngine.Timeline.dll
+D:\Project\3td person\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+D:\Project\3td person\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\Project\3td person\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\Project\3td person\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+D:\Project\3td person\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+D:\Project\3td person\Temp\UnityVS_bin\Debug\UnityEngine.TestRunner.xml
+D:\Project\3td person\Temp\UnityVS_bin\Debug\nunit.framework.xml
+D:\Project\3td person\Temp\UnityVS_bin\Debug\UnityEngine.Timeline.xml
+D:\Project\3td person\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+D:\Project\3td person\Temp\UnityVS_bin\Debug\UnityEngine.HoloLens.xml
+D:\Project\3td person\Temp\UnityVS_obj\Debug\3td person.csprojResolveAssemblyReference.cache
+D:\Project\3td person\Temp\UnityVS_obj\Debug\Assembly-CSharp.dll
+D:\Project\3td person\Temp\UnityVS_obj\Debug\Assembly-CSharp.pdb
